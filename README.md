@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0139-word-break](https://github.com/MahmadShahabaz/Submissions/tree/master/0139-word-break) |
 | [0283-move-zeroes](https://github.com/MahmadShahabaz/Submissions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MahmadShahabaz/Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/MahmadShahabaz/Submissions/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/MahmadShahabaz/Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Binary Search
@@ -25,4 +27,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/MahmadShahabaz/Submissions/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/MahmadShahabaz/Submissions/tree/master/0139-word-break) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/MahmadShahabaz/Submissions/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/MahmadShahabaz/Submissions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/MahmadShahabaz/Submissions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/MahmadShahabaz/Submissions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

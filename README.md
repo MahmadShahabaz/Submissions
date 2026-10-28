@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/MahmadShahabaz/Submissions/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/MahmadShahabaz/Submissions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/MahmadShahabaz/Submissions/tree/master/0139-word-break) |
+| [0260-single-number-iii](https://github.com/MahmadShahabaz/Submissions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/MahmadShahabaz/Submissions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MahmadShahabaz/Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/MahmadShahabaz/Submissions/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/MahmadShahabaz/Submissions/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->

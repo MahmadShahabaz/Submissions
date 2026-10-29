@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MahmadShahabaz/Submissions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MahmadShahabaz/Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/MahmadShahabaz/Submissions/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/MahmadShahabaz/Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/MahmadShahabaz/Submissions/tree/master/0260-single-number-iii) |
+## Counting
+|  |
+| ------- |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 <!---LeetCode Topics End-->

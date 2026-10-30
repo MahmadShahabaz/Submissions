@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/MahmadShahabaz/Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/MahmadShahabaz/Submissions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MahmadShahabaz/Submissions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0139-word-break](https://github.com/MahmadShahabaz/Submissions/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MahmadShahabaz/Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/MahmadShahabaz/Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/MahmadShahabaz/Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->

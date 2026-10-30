@@ -10,6 +10,8 @@
  * }
  */
 public class Solution {
+
+    // another appoach is take first one list node and compare with each node of another list node if it == then return that node ;;
     public int getSize(ListNode head){
         int count=0;
         ListNode temp=head;

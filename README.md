@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MahmadShahabaz/Submissions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MahmadShahabaz/Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1046-last-stone-weight](https://github.com/MahmadShahabaz/Submissions/tree/master/1046-last-stone-weight) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Two Pointers
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MahmadShahabaz/Submissions/tree/master/0023-merge-k-sorted-lists) |
+| [1046-last-stone-weight](https://github.com/MahmadShahabaz/Submissions/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |

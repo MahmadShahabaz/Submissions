@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/MahmadShahabaz/Submissions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MahmadShahabaz/Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0139-word-break](https://github.com/MahmadShahabaz/Submissions/tree/master/0139-word-break) |
+| [0215-kth-largest-element-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/MahmadShahabaz/Submissions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/MahmadShahabaz/Submissions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MahmadShahabaz/Submissions/tree/master/0349-intersection-of-two-arrays) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/MahmadShahabaz/Submissions/tree/master/0047-permutations-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/MahmadShahabaz/Submissions/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -96,10 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MahmadShahabaz/Submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MahmadShahabaz/Submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/MahmadShahabaz/Submissions/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
@@ -117,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/MahmadShahabaz/Submissions/tree/master/0234-palindrome-linked-list) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

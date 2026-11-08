@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/MahmadShahabaz/Submissions/tree/master/0047-permutations-ii) |
+| [0054-spiral-matrix](https://github.com/MahmadShahabaz/Submissions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MahmadShahabaz/Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/MahmadShahabaz/Submissions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MahmadShahabaz/Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MahmadShahabaz/Submissions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MahmadShahabaz/Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/MahmadShahabaz/Submissions/tree/master/0079-word-search) |
 ## Bit Manipulation
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MahmadShahabaz/Submissions/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/MahmadShahabaz/Submissions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

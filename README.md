@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/MahmadShahabaz/Submissions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/MahmadShahabaz/Submissions/tree/master/0139-word-break) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/MahmadShahabaz/Submissions/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MahmadShahabaz/Submissions/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/MahmadShahabaz/Submissions/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 <!---LeetCode Topics End-->

@@ -13,29 +13,42 @@
 //  *     }
 //  * }
 //  */
-// // class Solution {
-// //     public List<Integer> inorderTraversal(TreeNode root) {
-// //         if(root==null) return;
-// //         inorderTraversal(root.left);
-// //         System.out.print(root.val+"");
-// //         inorderTraversal(root.right);
-        
-        
-// //     } 
-// }
-
 class Solution {
+    List<Integer> ans = new ArrayList<>();
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> ans = new ArrayList<>();
-        helper(root, ans);
+
+        Travels(root);
         return ans;
     }
 
-    public void helper(TreeNode root, List<Integer> ans) {
-        if (root == null) return;
+     void Travels(TreeNode root){
+        if(root==null) return;
 
-        helper(root.left, ans);
+        Travels(root.left);
         ans.add(root.val);
-        helper(root.right, ans);
+        Travels(root.right);
     }
+        
+        
+    
 }
+
+
+
+// class Solution {
+//     public List<Integer> inorderTraversal(TreeNode root) {
+//         List<Integer> ans = new ArrayList<>();
+//         helper(root, ans);
+//         return ans;
+//     }
+
+//     public void helper(TreeNode root, List<Integer> ans) {
+//         if (root == null) return;
+
+//         helper(root.left, ans);
+//         ans.add(root.val);
+//         helper(root.right, ans);
+//     }
+// }
+
+

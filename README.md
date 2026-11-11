@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/MahmadShahabaz/Submissions/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/MahmadShahabaz/Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MahmadShahabaz/Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/MahmadShahabaz/Submissions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -145,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/MahmadShahabaz/Submissions/tree/master/1663-smallest-string-with-a-given-numeric-value) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MahmadShahabaz/Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MahmadShahabaz/Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->

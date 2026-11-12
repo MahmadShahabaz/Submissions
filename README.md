@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/MahmadShahabaz/Submissions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MahmadShahabaz/Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/MahmadShahabaz/Submissions/tree/master/0226-invert-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -151,8 +152,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MahmadShahabaz/Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/MahmadShahabaz/Submissions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MahmadShahabaz/Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/MahmadShahabaz/Submissions/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/MahmadShahabaz/Submissions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->

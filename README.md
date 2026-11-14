@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/MahmadShahabaz/Submissions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/MahmadShahabaz/Submissions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MahmadShahabaz/Submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/MahmadShahabaz/Submissions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1046-last-stone-weight](https://github.com/MahmadShahabaz/Submissions/tree/master/1046-last-stone-weight) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MahmadShahabaz/Submissions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/MahmadShahabaz/Submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/MahmadShahabaz/Submissions/tree/master/0414-third-maximum-number) |
 ## String
 |  |
 | ------- |

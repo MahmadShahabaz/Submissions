@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MahmadShahabaz/Submissions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/MahmadShahabaz/Submissions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/MahmadShahabaz/Submissions/tree/master/0139-word-break) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/MahmadShahabaz/Submissions/tree/master/1663-smallest-string-with-a-given-numeric-value) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MahmadShahabaz/Submissions/tree/master/0067-add-binary) |
 | [0260-single-number-iii](https://github.com/MahmadShahabaz/Submissions/tree/master/0260-single-number-iii) |
 ## Counting
 |  |
@@ -145,10 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MahmadShahabaz/Submissions/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/MahmadShahabaz/Submissions/tree/master/0067-add-binary) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MahmadShahabaz/Submissions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/MahmadShahabaz/Submissions/tree/master/0067-add-binary) |
 ## Greedy
 |  |
 | ------- |

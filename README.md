@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/MahmadShahabaz/Submissions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MahmadShahabaz/Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0139-word-break](https://github.com/MahmadShahabaz/Submissions/tree/master/0139-word-break) |
+| [0164-maximum-gap](https://github.com/MahmadShahabaz/Submissions/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MahmadShahabaz/Submissions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/MahmadShahabaz/Submissions/tree/master/0260-single-number-iii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/MahmadShahabaz/Submissions/tree/master/0047-permutations-ii) |
+| [0164-maximum-gap](https://github.com/MahmadShahabaz/Submissions/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MahmadShahabaz/Submissions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/MahmadShahabaz/Submissions/tree/master/0349-intersection-of-two-arrays) |
@@ -177,4 +179,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahmadShahabaz/Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/MahmadShahabaz/Submissions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/MahmadShahabaz/Submissions/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/MahmadShahabaz/Submissions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->

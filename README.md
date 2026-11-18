@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/MahmadShahabaz/Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0047-permutations-ii](https://github.com/MahmadShahabaz/Submissions/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/MahmadShahabaz/Submissions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MahmadShahabaz/Submissions/tree/master/0074-search-a-2d-matrix) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/MahmadShahabaz/Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/MahmadShahabaz/Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/MahmadShahabaz/Submissions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/MahmadShahabaz/Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/MahmadShahabaz/Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MahmadShahabaz/Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)

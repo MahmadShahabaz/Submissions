@@ -16,6 +16,10 @@ class Solution {
             arr[k++] = nums2[j++];
         }
 
+
+
+        
+
         Arrays.sort(arr);
 
         int len = arr.length;

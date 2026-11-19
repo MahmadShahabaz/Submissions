@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MahmadShahabaz/Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/MahmadShahabaz/Submissions/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/MahmadShahabaz/Submissions/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/MahmadShahabaz/Submissions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MahmadShahabaz/Submissions/tree/master/0074-search-a-2d-matrix) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahmadShahabaz/Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/MahmadShahabaz/Submissions/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/MahmadShahabaz/Submissions/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MahmadShahabaz/Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/MahmadShahabaz/Submissions/tree/master/0217-contains-duplicate) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MahmadShahabaz/Submissions/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/MahmadShahabaz/Submissions/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/MahmadShahabaz/Submissions/tree/master/0079-word-search) |
 ## Depth-First Search
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MahmadShahabaz/Submissions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/MahmadShahabaz/Submissions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MahmadShahabaz/Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/MahmadShahabaz/Submissions/tree/master/0079-word-search) |
@@ -194,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/MahmadShahabaz/Submissions/tree/master/0164-maximum-gap) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/MahmadShahabaz/Submissions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/MahmadShahabaz/Submissions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

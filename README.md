@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahmadShahabaz/Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/MahmadShahabaz/Submissions/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/MahmadShahabaz/Submissions/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/MahmadShahabaz/Submissions/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MahmadShahabaz/Submissions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahmadShahabaz/Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/MahmadShahabaz/Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/MahmadShahabaz/Submissions/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/MahmadShahabaz/Submissions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/MahmadShahabaz/Submissions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/MahmadShahabaz/Submissions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/MahmadShahabaz/Submissions/tree/master/0139-word-break) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MahmadShahabaz/Submissions/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/MahmadShahabaz/Submissions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/MahmadShahabaz/Submissions/tree/master/0067-add-binary) |
 ## Simulation
 |  |

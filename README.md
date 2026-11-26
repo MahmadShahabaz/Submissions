@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/MahmadShahabaz/Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/MahmadShahabaz/Submissions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/MahmadShahabaz/Submissions/tree/master/0012-integer-to-roman) |
+| [0038-count-and-say](https://github.com/MahmadShahabaz/Submissions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/MahmadShahabaz/Submissions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/MahmadShahabaz/Submissions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/MahmadShahabaz/Submissions/tree/master/0139-word-break) |
